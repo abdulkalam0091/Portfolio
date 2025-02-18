@@ -48,6 +48,8 @@ body{
     justify-content: space-between;
     width: 80%;
 }
+
+
 nav{
     display:flex;
     justify-content: space-between;
@@ -946,3 +948,6 @@ button:hover {
         text-align: center;
     }
 }
+
+
+
